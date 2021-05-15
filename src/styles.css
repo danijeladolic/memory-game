@@ -1,0 +1,31 @@
+body{
+    background-color:rgb(236 197 72 / 13%);;
+}
+.grid{
+    margin:auto;
+    padding: 20px;
+    width: 450px;
+    height: 300px;
+   
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+
+}
+img{
+   width: 70px;
+   height: 150px;
+   
+   
+}
+.title{
+    text-align: center;
+    font-family: 'Lobster','sans-serif';
+    font-size: 40px;
+    padding: 10px;
+}
+.score{
+    font-family: 'Lobster','sans-serif';
+    width:100%;
+    margin-left:40%;
+}
